@@ -35,10 +35,10 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Base">
-      <HintPath>..\libs\Base.dll</HintPath>
+      <HintPath>C:\Users\BaoBaoSoft\Documents\Visual Studio 2015\Projects\MVCNevtech\libs\Base.dll</HintPath>
     </Reference>
     <Reference Include="ExtensionsAndHelpers">
-      <HintPath>..\libs\ExtensionsAndHelpers.dll</HintPath>
+      <HintPath>C:\Users\BaoBaoSoft\Documents\Visual Studio 2015\Projects\MVCNevtech\libs\ExtensionsAndHelpers.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
